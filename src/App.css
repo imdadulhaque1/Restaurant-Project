@@ -1,11 +1,12 @@
 .App {
   text-align: center;
 }
+
 .footer {
-  background: #d1c4e9;
+  background-color: #D1C4E9;
   margin: 0px auto;
   padding-top: 10px;
-  position: flex;
+  position: fixed;
   bottom: 0;
   width: 100%;
 }

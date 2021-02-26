@@ -1,12 +1,12 @@
 import React from 'react';
 
-const About = ()=>{
-          document.title ="About";
-          return(
-                    <div>
+const About = () => {
+    document.title = "About";
+    return (
+        <div>
 
-                    </div>
-          );
+        </div>
+    );
 }
 
 export default About;
